@@ -1,5 +1,5 @@
 README.md
 venv_homework/*
 build/side.txt
-
+__pycache__/*
 *.doc 
